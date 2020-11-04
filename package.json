@@ -10,9 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "chai": "^4.2.0",
-    "mocha": "^8.2.1",
-    "semantic-release": "^17.2.2"
+    "mocha": "^8.2.1"
   },
   "release": {
     "publish": [
@@ -20,6 +18,9 @@
         "path": "@semantic-release/npm",
         "npmPublish": false
       }
+    ],
+    "branches": [
+      "master"
     ]
   }
 }
