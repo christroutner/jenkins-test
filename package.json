@@ -24,9 +24,6 @@
         "path": "@semantic-release/npm",
         "npmPublish": false
       }
-    ],
-    "branches": [
-      "master"
     ]
   }
 }
