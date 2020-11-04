@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "mocha": "^8.2.1"
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1",
+    "semantic-release": "^17.2.2"
   },
   "release": {
     "publish": [
