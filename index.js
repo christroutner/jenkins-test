@@ -1,4 +1,4 @@
 async function start() {
-  console.log('hello 44')
+  console.log('hello 45')
 }
 start()
