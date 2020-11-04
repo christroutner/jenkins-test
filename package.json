@@ -22,7 +22,7 @@
       }
     ],
     "branches": [
-      "master"
+      "origin/master"
     ]
   }
 }
