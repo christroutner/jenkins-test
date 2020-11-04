@@ -14,6 +14,10 @@
     "mocha": "^8.2.1",
     "semantic-release": "^17.2.2"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christroutner/jenkins-test.git"
+  },
   "release": {
     "publish": [
       {
