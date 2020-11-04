@@ -8,7 +8,9 @@ pipeline {
     stages {
         stage('build') {
             steps {
-              echo "hello world"
+              echo "Running ${env.BUILD_ID}"
+              echo "GitHub Token: ${GH_TOKEN}"
+              sh 'npm install'
             }
         }
     }
