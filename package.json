@@ -23,6 +23,7 @@
     ],
     "branches": [
       "origin/master",
+      "*/master",
       "master"
     ]
   }
